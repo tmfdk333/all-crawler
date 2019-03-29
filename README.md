@@ -6,3 +6,4 @@
 - **Facebook**
     - Timeline
 - **Instagram**
+- **FastCampus**
